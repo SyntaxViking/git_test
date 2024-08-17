@@ -1,1 +1,2 @@
 This is some text
+& here is some additional text on a new line
